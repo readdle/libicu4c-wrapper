@@ -1,0 +1,9 @@
+module libicu4c [system] {
+    header "libicu4c.h"
+    header "RunArray.h"
+    export *
+    link "icu4c-wrapper"
+    link "icudata"
+    link "icuuc"
+    link "icui18n"
+}
