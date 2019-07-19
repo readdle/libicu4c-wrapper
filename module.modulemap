@@ -1,5 +1,5 @@
 module libicu [system] {
-    link "scudata"
-    link "scuuc"
-    link "scui18n"
+    link "icudataswift"
+    link "icuucswift"
+    link "icui18nswift"
 }

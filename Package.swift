@@ -3,4 +3,4 @@
 
 import PackageDescription
 
-let package = Package(name: "libicu", swiftLanguageVersions: [3])
+let package = Package(name: "libicu")
